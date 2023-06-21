@@ -7,7 +7,7 @@
 	},
 	"dependencies": {
 		"axios": "^0.18.0",
-		"concurrently": "^3.6.0",
+		"concurrently": "^6.2.2",
 		"moment": "^2.22.2",
 		"mysql": "^2.15.0",
 		"nodemailer": "^4.6.7",
